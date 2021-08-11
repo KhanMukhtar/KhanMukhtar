@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khanmukhtar394@gmail.com**
 
-- ⚡ Fun fact **Numbers can be use to show Futures. LoL**
+- ⚡ Fun fact : **Numbers can be use to show Future. 🤣LoL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
