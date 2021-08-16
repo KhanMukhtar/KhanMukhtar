@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanmukhtar" alt="khanmukhtar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://khanmukhtar.github.io/MukhtarKhan.github.io/](https://khanmukhtar.github.io/MukhtarKhan.github.io/)
+- 👨‍💻 All of my projects are available at [https://khanmukhtar.github.io/MukhtarKhan.github.io/](https://khanmukhtar.github.io/Mukhtarkhan.github.io/)
 
 - 📫 How to reach me **khanmukhtar394@gmail.com**
 
